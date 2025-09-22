@@ -2,26 +2,20 @@
 
 ## Folder Structure  
 
-
-fashion-store/
-│── index.html (Home Page)
-│── contact.html (Contact Page - sibling)
-│
-├── men/
-│ ├── men.html (Men Main Page)
-│ └── shirts.html (Child Page)
-│
-├── women/
-│ ├── women.html (Women Main Page)
-│ └── dresses.html (Child Page)
-│
-├── kids/
-│ ├── kids.html (Kids Main Page)
-│ └── baby/
-│ └── baby.html (Grandchild Page)
-│
-└── images/ (Images Folder for all page images)
-
+- fashion-store/
+  - index.html             (Home Page)
+  - contact.html           (Contact Page - sibling)
+  - men/
+    - men.html           (Men Main Page)
+    - shirts.html        (Child Page)
+  - women/
+    - women.html         (Women Main Page)
+    - dresses.html       (Child Page)
+  - kids/
+    - kids.html          (Kids Main Page)
+    - baby/
+      - baby.html        (Grandchild Page)
+  - images/              (Images Folder for all page images)
 
 ---
 
